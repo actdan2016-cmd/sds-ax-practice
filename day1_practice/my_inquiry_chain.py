@@ -53,4 +53,4 @@ for req in requests:
     print("위험도:", result["routing"]["risk"])
     print("요약:", result["routing"]["summary"])
     print("답변 초안:", result["draft"])
-    print("-" * 30)
+    print("------------------------------------------------------------")
