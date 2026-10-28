@@ -1,0 +1,27 @@
+[
+  {
+    "question": "20년차 최대 연차는 며칠까지 가능한가요?",
+    "expected_source": "docs/leave_policy.md",
+    "type": "fact"
+  },
+  {
+    "question": "패밀리데이는 언제 가능하냐?",
+    "expected_source": "docs/leave_policy.md",
+    "type": "paraphrase"
+  },
+  {
+    "question": "재택 신청시 사전 결제는 언제 해야 되냐?",
+    "expected_source": "docs/remote_work_policy.md",
+    "type": "paraphrase"
+  },
+  {
+    "question": "해외 출장 식비 한도는 하루 얼마인가요?",
+    "expected_source": "docs/travel_policy.md",
+    "type": "fact"
+  },
+  {
+    "question": "국내 출장 시 숙박비는 얼마나 지원이 되나요?",
+    "expected_source": null,
+    "type": "no_answer"
+  }
+]
