@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "trace": "./trace.py:graph"
+  },
+  "env": "../.env"
+}
